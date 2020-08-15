@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af8747df-01e0-4203-9247-071e6e97d3c7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FoAI_Assignments$Agent.ic" NAME="Agent Coverage Results" MODIFIED="1573068643731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Assignment2.EfficientPruningButMessy.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="176" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FoAI-Assignments" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="281" column="22" selection-start-line="281" selection-start-column="22" selection-end-line="281" selection-end-column="22" />
+              <folding>
+                <element signature="method#checkSuperSet#0;class#KnowledgeBase#0" />
+                <element signature="method#isSuperSet#0;class#KnowledgeBase#0" />
+                <element signature="method#reduceDuplicatedLiterals#0;class#KnowledgeBase#0" />
+                <element signature="method#isVariable#0;class#KnowledgeBase#0" />
+                <element signature="method#unify#0;class#KnowledgeBase#0" />
+                <element signature="method#unify#1;class#KnowledgeBase#0" />
+                <element signature="method#unifyVar#0;class#KnowledgeBase#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Assignment3/Agent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="121" column="77" selection-start-line="121" selection-start-column="77" selection-end-line="121" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Assignment3/Sentence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+              <folding>
+                <element signature="method#Sentence#2;class#Sentence#0" />
+                <element signature="method#add#0;class#Sentence#0" />
+                <element signature="method#negated#0;class#Sentence#0" />
+                <element signature="method#getIndices#0;class#Sentence#0" />
+                <element signature="method#debug#0;class#Sentence#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Assignment1/AStarSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1178">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Assignment3/Literal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3180">
+              <caret line="236" column="84" selection-start-line="236" selection-start-column="84" selection-end-line="236" selection-end-column="84" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#toString#0;class#Literal#0" />
+                <element signature="method#isSame#0;class#Literal#0" />
+                <element signature="method#debug#0;class#Literal#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>literal2IndexMap</find>
+      <find>literal2IndicesMap</find>
+      <find>IndexingMap</find>
+      <find>equals</find>
+      <find>~Sells4(West,y,z)|~Enemy4(z,America)|Owns4(Nono,y)|Sells4(West,y,Nono)</find>
+      <find>~Sells4(West,y,Nono)|~Missile4(y)</find>
+      <find>~Hostile4(Nono)|Owns4(Nono,y)|Sells4(West,y,Nono)|Missile4(y)|Owns4(Nono,y)</find>
+      <find>~Weapon4(y)|Missile4(y)|Owns4(Nono,y)</find>
+      <find>~American4(West)|~Sells4(West,MONE,Nono)</find>
+      <find>~Sells4(West,MONE,Nono)</find>
+      <find>~American4(West)</find>
+      <find>~Enemy4(z,America)</find>
+      <find>Nono</find>
+      <find>~Enemy4(z,America</find>
+      <find>~Enemy4(Nono,America)|Owns4(Nono,y)|Sells4(West,y,Nono)|Missile4(y)|Owns4(Nono,y)</find>
+      <find>Sells4(West,y,z)</find>
+      <find>Missile4(y)|Owns4(</find>
+      <find>~American4(West)|~Hostile4(Nono)|Owns4(Nono,y)|Owns4(Nono,y)|~American4(x)|~Sells4(x,y,Nono)|~Hostile4(Nono)|Criminal4(x)|</find>
+      <find>~American4(West)|Owns4(Nono,y)|Sells4(West,y,Nono)|Owns4(Nono,y)|~American4(Nono)|~Sells4(Nono,y,z)|~Hostile4(z)|Criminal4(Nono)|~Enemy4(Nono,America)</find>
+      <find>~American4(West)|~Hostile4(Nono)|Owns4(Nono,y)|Sells4(West,y,Nono)|Owns4(Nono,y)|~American4(x)|~Sells4(x,y,z)|~Hostile4(z)|Criminal4(x)</find>
+      <find>SEE4</find>
+      <find />
+      <find>H1</find>
+      <find>A10</find>
+      <find>P10</find>
+      <find>~Sells4(West,West,West)|~Enemy4(West,America)|Owns4(Nono,West)|~Weapon4(West)</find>
+      <find>~American4(West)|~American4(y)|~Sells4(y,y,Nono)|Criminal4(y)|Owns4(Nono,y)|~Missile4(y)</find>
+      <find>~Sells4(West,West,West)|~Enemy4(West,America)|Owns4(Nono,West)|~Weapon4(West)|~Hostile4(Nono)</find>
+      <find />
+      <find>~Sells4(West,West,West)|~Enemy4(West,America)|~Missile4(West)|Owns4(Nono,West)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>openPque</replace>
+      <replace>optimalPath</replace>
+      <replace>double</replace>
+      <replace>Cell</replace>
+      <replace>other</replace>
+      <replace>Queue</replace>
+      <replace>int</replace>
+      <replace>Integer</replace>
+      <replace>hasInCampActions</replace>
+      <replace>IndexingMap</replace>
+      <replace>literalIndexingMap</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/ActionType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/SearchMode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/PlayerType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/Action.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/ActionMove.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/Camp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/Pieces.java" />
+        <option value="$PROJECT_DIR$/results/input10.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/ActionJump.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/MinimaxSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/Agent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Agent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/MinimaxSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/test/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/InefficientPruningButClean/MinimaxSearch.java" />
+        <option value="$PROJECT_DIR$/sources/input9.txt" />
+        <option value="$PROJECT_DIR$/results/output11.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/test/homework.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/Judge.java" />
+        <option value="$PROJECT_DIR$/sources/initial-state.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/MinimaxSearch.java" />
+        <option value="$PROJECT_DIR$/sources/input.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/Agent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment3/LiteralType.java" />
+        <option value="$PROJECT_DIR$/sources/input1.txt" />
+        <option value="$PROJECT_DIR$/sources/input2.txt" />
+        <option value="$PROJECT_DIR$/sources/input3.txt" />
+        <option value="$PROJECT_DIR$/sources/input4.txt" />
+        <option value="$PROJECT_DIR$/sources/input10.txt" />
+        <option value="$PROJECT_DIR$/sources/input49-19.txt" />
+        <option value="$PROJECT_DIR$/sources/input49.txt" />
+        <option value="$PROJECT_DIR$/sources/input11.txt" />
+        <option value="$PROJECT_DIR$/sources/input12.txt" />
+        <option value="$PROJECT_DIR$/sources/input13.txt" />
+        <option value="$PROJECT_DIR$/sources/input49-32.txt" />
+        <option value="$PROJECT_DIR$/sources/input49-49.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment3/Literal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment3/Sentence.java" />
+        <option value="$PROJECT_DIR$/results/output49.txt" />
+        <option value="$PROJECT_DIR$/sources/input8.txt" />
+        <option value="$PROJECT_DIR$/results/test.txt" />
+        <option value="$PROJECT_DIR$/results/output.txt" />
+        <option value="$PROJECT_DIR$/sources/input14.txt" />
+        <option value="$PROJECT_DIR$/sources/input15.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Assignment3/Agent.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FoAI-Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoAI-Assignments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoAI-Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoAI-Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoAI-Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoAI-Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoAI-Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoAI-Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoAI-Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FoAI-Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576186464154" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/results/output.txt" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/results" />
+      <recent name="$PROJECT_DIR$/sources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/test" />
+      <recent name="$PROJECT_DIR$/sources" />
+      <recent name="$PROJECT_DIR$/results" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Agent (1)">
+    <configuration name="Agent (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment3.Agent" />
+      <module name="FoAI-Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Agent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment2.EfficientPruningButMessy.Agent" />
+      <module name="FoAI-Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment2.EfficientPruningButMessy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Agent (1)" />
+        <item itemvalue="Application.Agent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af8747df-01e0-4203-9247-071e6e97d3c7" name="Default Changelist" comment="" />
+      <created>1568917258800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568917258800</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49659863" visible="true" weight="0.26332796" />
+      <window_info id="Structure" order="1" sideWeight="0.50340134" side_tool="true" weight="0.25121164" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50136983" side_tool="true" weight="0.24717286" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.37945205" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3958904" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" weight="0.29051095" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32956383" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49659863" visible="true" weight="0.23909532" />
+      <window_info id="Structure" order="1" sideWeight="0.50340134" side_tool="true" weight="0.25121164" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50136983" side_tool="true" weight="0.24717286" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3958904" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32956383" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>230</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>231</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>257</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>256</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>253</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>252</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>186</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>187</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>189</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>184</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java</url>
+          <line>188</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/InefficientPruningButClean/Board.java</url>
+          <line>170</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/InefficientPruningButClean/Agent.java</url>
+          <line>323</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/InefficientPruningButClean/Agent.java</url>
+          <line>327</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/InefficientPruningButClean/MinimaxSearch.java</url>
+          <line>139</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/InefficientPruningButClean/MinimaxSearch.java</url>
+          <line>147</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/InefficientPruningButClean/MinimaxSearch.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/InefficientPruningButClean/MinimaxSearch.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/InefficientPruningButClean/MinimaxSearch.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/InefficientPruningButClean/Player.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/InefficientPruningButClean/Player.java</url>
+          <line>407</line>
+          <properties />
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/Agent.java</url>
+          <line>338</line>
+          <properties />
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/Agent.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/MinimaxSearch.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/MinimaxSearch.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/MinimaxSearch.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/MinimaxSearch.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/test/homework.java</url>
+          <line>485</line>
+          <properties />
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/test/homework.java</url>
+          <line>549</line>
+          <properties />
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/test/homework.java</url>
+          <line>545</line>
+          <properties />
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/test/homework.java</url>
+          <line>544</line>
+          <properties />
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/test/homework.java</url>
+          <line>272</line>
+          <properties />
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/test/homework.java</url>
+          <line>271</line>
+          <properties />
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/test/homework.java</url>
+          <line>275</line>
+          <properties />
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/test/homework.java</url>
+          <line>541</line>
+          <properties />
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/test/homework.java</url>
+          <line>540</line>
+          <properties />
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/MinimaxSearch.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/MinimaxSearch.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/Agent.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>168</line>
+          <properties />
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>143</line>
+          <properties />
+          <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>156</line>
+          <properties />
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>230</line>
+          <properties />
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>231</line>
+          <properties />
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>233</line>
+          <properties />
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>234</line>
+          <properties />
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>243</line>
+          <properties />
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>241</line>
+          <properties />
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>256</line>
+          <properties />
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>276</line>
+          <properties />
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>286</line>
+          <properties />
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>291</line>
+          <properties />
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>261</line>
+          <properties />
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>262</line>
+          <properties />
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>extraKB.getIndice(literal)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.isTerminal()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.piecesList.get(index).getStatusOfPieces()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Arrays.deepToString(isVisited);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isVisited</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(meInOwn+opponentInOpposite == 19)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(meInOpposite+opponentInOwn == 19)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.playerMax.countDistanceToOpponent()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.playerMin.countPiecesInOppositeCamp()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/Downloads/validator.jar!/competition/Judge.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/validator.jar!/hw2/FileInfo.class" />
+    <entry file="jar://$USER_HOME$/Downloads/validator.jar!/hw2/AlgFactory.class" />
+    <entry file="jar://$USER_HOME$/Downloads/validator.jar!/hw2/AlgType.class" />
+    <entry file="file://$PROJECT_DIR$/next.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/Judge.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="113" column="26" lean-forward="true" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
+          <folding>
+            <element signature="e#13350#13351#0" expanded="true" />
+            <element signature="e#13396#13397#0" expanded="true" />
+            <element signature="e#13443#13444#0" expanded="true" />
+            <element signature="e#13494#13495#0" expanded="true" />
+            <element signature="e#13537#13538#0" expanded="true" />
+            <element signature="e#13575#13576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/initial-state.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input.txt" />
+    <entry file="file://$PROJECT_DIR$/results/output13.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/MinimaxSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-554">
+          <caret line="59" column="39" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
+          <folding>
+            <element signature="e#3150#4249#1" />
+            <element signature="e#4353#5565#1" />
+            <element signature="e#5677#6895#1" />
+            <element signature="e#7062#8076#1" />
+            <element signature="e#9060#10099#1" />
+            <element signature="e#10348#11465#1" />
+            <element signature="e#10134#11334#1" />
+            <element signature="e#13220#14216#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment2/EfficientPruningButMessy/Agent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="238" column="53" selection-start-line="238" selection-start-column="53" selection-end-line="238" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#DataIO#0;class#DataIO#0" />
+            <element signature="method#initializePlayers#0;class#DataIO#0" />
+            <element signature="method#updateInfo#0;class#DataIO#0" />
+            <element signature="method#writeAction2File#0;class#DataIO#0" />
+            <element signature="method#writeBoard2File#0;class#DataIO#0" />
+            <element signature="method#writeHeader2File#0;class#DataIO#0" />
+            <element signature="method#writeAction2Screen#0;class#DataIO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment1/Agent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/input2.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input4.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input3.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment3/LiteralType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/output2.txt" />
+    <entry file="file://$PROJECT_DIR$/results/output3.txt" />
+    <entry file="file://$PROJECT_DIR$/results/output4.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input49-19.txt" />
+    <entry file="file://$PROJECT_DIR$/results/output11.txt" />
+    <entry file="file://$PROJECT_DIR$/results/output12.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input49.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input49-49.txt" />
+    <entry file="file://$PROJECT_DIR$/results/output1.txt" />
+    <entry file="file://$PROJECT_DIR$/results/output9.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input7.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input6.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input5.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input49-32.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input9.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input49-15.txt" />
+    <entry file="file://$PROJECT_DIR$/results/test.txt" />
+    <entry file="file://$PROJECT_DIR$/results/output.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input8.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input10.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input11.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input13.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input12.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input14.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input1.txt" />
+    <entry file="file://$PROJECT_DIR$/sources/input15.txt" />
+    <entry file="file://$PROJECT_DIR$/results/output49.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment3/KnowledgeBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="281" column="22" selection-start-line="281" selection-start-column="22" selection-end-line="281" selection-end-column="22" />
+          <folding>
+            <element signature="method#checkSuperSet#0;class#KnowledgeBase#0" />
+            <element signature="method#isSuperSet#0;class#KnowledgeBase#0" />
+            <element signature="method#reduceDuplicatedLiterals#0;class#KnowledgeBase#0" />
+            <element signature="method#isVariable#0;class#KnowledgeBase#0" />
+            <element signature="method#unify#0;class#KnowledgeBase#0" />
+            <element signature="method#unify#1;class#KnowledgeBase#0" />
+            <element signature="method#unifyVar#0;class#KnowledgeBase#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/input_14.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment3/Literal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3180">
+          <caret line="236" column="84" selection-start-line="236" selection-start-column="84" selection-end-line="236" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#toString#0;class#Literal#0" />
+            <element signature="method#isSame#0;class#Literal#0" />
+            <element signature="method#debug#0;class#Literal#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment3/Agent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="121" column="77" selection-start-line="121" selection-start-column="77" selection-end-line="121" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment3/Sentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+          <folding>
+            <element signature="method#Sentence#2;class#Sentence#0" />
+            <element signature="method#add#0;class#Sentence#0" />
+            <element signature="method#negated#0;class#Sentence#0" />
+            <element signature="method#getIndices#0;class#Sentence#0" />
+            <element signature="method#debug#0;class#Sentence#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Assignment1/AStarSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1178">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FoAI-Assignments</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>validator</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
